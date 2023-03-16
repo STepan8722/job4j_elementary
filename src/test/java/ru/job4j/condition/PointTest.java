@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 public class PointTest {
 
     @Test
-    public void when14to45then3() {
+    public void when14to45then3dot16() {
         double expected = 3.16;
         int x1 = 1;
         int y1 = 4;
